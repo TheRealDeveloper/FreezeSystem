@@ -1,0 +1,17 @@
+# {NAME} = TARGET PLAYER NAME
+
+#CommandSender message when Frezzes a Player
+
+freezed.sender.message: "You have freezed §6{NAME}"
+
+#If player is not a Player or not Found
+
+is.not.player: "§cPlayer not Found"
+
+#When player is Freezed
+
+you.are.freezed: "§cYou are Freezed"
+
+#CommandSender message when unfrezes a Player
+
+unfreezed.sender.message: "You unfreezed {NAME}"

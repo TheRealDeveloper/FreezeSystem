@@ -1,0 +1,21 @@
+name: FreezeSystem
+api: 4.0.0
+version: 1.0
+main: trd\freeze\Main
+author: TheRealDeveloper
+
+commands:
+  freeze:
+    description: Freeze a Player
+    permission: freeze.freeze
+    permission-message: "§cYou dont have Permission to use: §6Freeze"
+  unfreeze:
+    description: Freeze a Player
+    permission: freeze.unfreeze
+    permission-message: "§cYou dont have Permission to use: §6Unfreeze"
+
+permissions:
+  freeze.freeze:
+    default: op
+  freeze.unfreeze:
+    default: op
