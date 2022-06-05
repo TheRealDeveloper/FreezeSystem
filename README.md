@@ -8,3 +8,4 @@
   [![](https://poggit.pmmp.io/shield.dl.total/FreezeSystem)](https://poggit.pmmp.io/p/FreezeSystem)
 <a href="https://poggit.pmmp.io/p/FreezeSystem"><img src="https://poggit.pmmp.io/shield.state/FreezeSystem"></a>
 [![](https://poggit.pmmp.io/shield.api/FreezeSystem)](https://poggit.pmmp.io/p/FreezeSystem)
+[![](https://poggit.pmmp.io/shield.dl/FreezeSystem)](https://poggit.pmmp.io/p/FreezeSystem)
